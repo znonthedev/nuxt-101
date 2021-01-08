@@ -1,0 +1,11 @@
+{
+  "welcome": "Welcome",
+  "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id nisi a quam gravida varius sed eu velit. Proin urna augue, auctor sit amet nisi ut, luctus ullamcorper ante. Nullam pulvinar, libero quis sagittis auctor, est nisi dignissim augue, non molestie est urna nec libero. Sed sed vehicula nunc. Aliquam orci felis, porttitor id eros sit amet, feugiat aliquet magna. Duis sit amet aliquet metus. Suspendisse imperdiet elementum fermentum. Proin viverra non enim vel faucibus. Cras non cursus lorem. Nullam fringilla imperdiet interdum. Aliquam ultrices metus at eros faucibus, a aliquet erat pulvinar. Proin nec diam elementum, sagittis quam quis, rutrum tortor.",
+  "overview": "Overview",
+  "media": "Media",
+  "profile": "Profile",
+  "today-activity": "Today's activity",
+  "new-followers": "New Followers",
+  "new-replies": "New Replies",
+  "likes-received": "Likes Received"
+}
